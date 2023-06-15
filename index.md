@@ -2,7 +2,7 @@
 
 **Click on the picture below** to enter a full-screen interactive map.  
 
-On the map you can:
+On the interactive map you can:
 - select the layer of your interest in the top right menu (topmost selected layer is visible),
 - move your mouse on the map to view region-specific data, and
 - zoom in to see the number values of the layer on regions.  
