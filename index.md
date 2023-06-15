@@ -1,8 +1,8 @@
 ### Interreg, IPA CBC and ENI CBC cooperation data by NUTS3 regions in 2014-2020 ###
 
-Data source: [keep.eu](https://keep.eu)
+Data source: [keep.eu](https://keep.eu)  
 
-Select layer in the top right menu. | Hover with mouse on the map to see region data. | Zoom in to see numbers on regions.
+Select layer in the top right menu. | Hover with mouse on the map to see region data. | Zoom in to see numbers on regions.  
 
 **NB!** 0 ERDF value for a region can mean that data for the region is not available
 
