@@ -1,4 +1,4 @@
-This is a hobby project where I concentrate in practising:
+This is an on-hold hobby project where I practise the following:
 
 a) importing, fixing and combining data from .xlsx and .csv with Python
 b) testing with Pytest
